@@ -1,0 +1,3 @@
+#!/bin/bash
+cd "/workspaces/Atlantismium/build/neoForm/neoFormJoined1.21.1-20240808.144430/steps/merge"
+exec "/usr/local/sdkman/candidates/java/21.0.9-ms/bin/java" -cp "/home/codespace/.gradle/caches/modules-2/files-2.1/net.neoforged/mergetool/2.0.3/85c096b0155715275f84922d41462484c9a0285c/mergetool-2.0.3-fatjar.jar" net.neoforged.mergetool.ConsoleMerger "--client" "/workspaces/Atlantismium/build/neoForm/neoFormJoined1.21.1-20240808.144430/steps/stripClient/outputs.jar" "--server" "/workspaces/Atlantismium/build/neoForm/neoFormJoined1.21.1-20240808.144430/steps/stripServer/outputs.jar" "--ann" "1.21.1" "--output" "/workspaces/Atlantismium/build/neoForm/neoFormJoined1.21.1-20240808.144430/steps/merge/outputs.jar" "--inject" "false"
