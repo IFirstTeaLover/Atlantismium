@@ -1,0 +1,13 @@
+{
+  "itemGroup.atlantismium": "Example Mod Tab",
+  "block.atlantismium.example_block": "Example Block",
+  "item.atlantismium.example_item": "Example Item",
+
+  "atlantismium.configuration.title": "Atlantismium Configs",
+  "atlantismium.configuration.section.atlantismium.common.toml": "Atlantismium Configs",
+  "atlantismium.configuration.section.atlantismium.common.toml.title": "Atlantismium Configs",
+  "atlantismium.configuration.items": "Item List",
+  "atlantismium.configuration.logDirtBlock": "Log Dirt Block",
+  "atlantismium.configuration.magicNumberIntroduction": "Magic Number Text",
+  "atlantismium.configuration.magicNumber": "Magic Number"
+}
